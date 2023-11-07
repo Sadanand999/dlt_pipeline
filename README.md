@@ -32,8 +32,8 @@ This project is to run DLT pipelines. DLT is a powerful tool for building data p
     * Activate the virtual environment:
          ```venv\Scripts\activate```
 5) **Install the required packages:**
-    * ```! pip install -U dlt
-    * !pip install "dlt[duckdb]"```
+    * ```! pip install -U dlt```
+    * ```!pip install "dlt[duckdb]"```
 
 
 ### Running DLT Pipelines
