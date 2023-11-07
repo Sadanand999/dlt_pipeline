@@ -19,21 +19,21 @@ This project is to run DLT pipelines. DLT is a powerful tool for building data p
 
 1) **Clone this repository to your local machine:**
 
-     git clone https://github.com/Sadanand999/dltpipelinerun.git
+     git clone https://github.com/Sadanand999/dlt_pipeline.git
 
 2) **Install Python 3.10 if you haven't already. You can download it from the official Python 
    website.**
       https://www.python.org/downloads/windows/
-      [Visit website](https://www.python.org/downloads/windows/){:target="_blank"}
+      [Visit website](https://www.python.org/downloads/windows/)
 
 4) **Create a virtual environment (recommended)**:
-          ''' python -m venv venv'''
+          ```python -m venv venv```
 
     * Activate the virtual environment:
-         ''' venv\Scripts\activate '''
+         ```venv\Scripts\activate```
 5) **Install the required packages:**
-    * ! pip install -U dlt
-    * !pip install "dlt[duckdb]"
+    * ```! pip install -U dlt
+    * !pip install "dlt[duckdb]"```
 
 
 ### Running DLT Pipelines
