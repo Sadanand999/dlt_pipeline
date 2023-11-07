@@ -27,11 +27,13 @@ This project is to run DLT pipelines. DLT is a powerful tool for building data p
       [Visit website](https://www.python.org/downloads/windows/)
 
 4) **Create a virtual environment (recommended)**:
-          ```python -m venv venv```
+
+   * create virtual environment
+    ```python -m venv venv```
 
     * Activate the virtual environment:
          ```venv\Scripts\activate```
-5) **Install the required packages:**
+6) **Install the required packages:**
     * ```! pip install -U dlt```
     * ```!pip install "dlt[duckdb]"```
 
