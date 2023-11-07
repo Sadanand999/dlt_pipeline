@@ -6,9 +6,13 @@ Welcome to the DLT (Data Loading Toolkit) Pipeline Run Project! In this reposito
 
 ### Table of Contents
 *Introduction
+
 *Getting Started
+
 *Running DLT Pipelines
+
 *Repository Contents
+
 *Contributing
 
 
